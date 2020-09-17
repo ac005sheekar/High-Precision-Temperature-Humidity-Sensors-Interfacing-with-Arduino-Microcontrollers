@@ -1,1 +1,2 @@
 # High-Precision-Temperature-Humidity-Sensors-Interfacing-with-Arduino-Microcontrollers
+This IoT based embedded system project focuses over the High Precision Temperature and Humidity Sensors like AMG8833 IR 8/8 Thermal Imager Array, DHT21 AM2301, DHT22 Digital, LM75A IIC II2 High Accuracy Digital and Panasonic Thermal Imaging Camera Sensor with the interfacing codes and mechanisms. All of the sensor data mechanism were fully functional and mostly upper-bounded with higher precision.
